@@ -1,4 +1,5 @@
 #Write your code here
 
-def using_map
+def using_map(array)
+  array.map
 end 
